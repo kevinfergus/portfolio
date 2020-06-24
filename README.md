@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the code for my portfolio website, built with React and Material UI. 
 
 ## Available Scripts
 
